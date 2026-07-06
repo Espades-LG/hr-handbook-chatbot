@@ -4,8 +4,8 @@ Last Updated: 2026-07-06
 Owner: HR Department
 
 # Employment Policy
-- Full-time permanent employees work at least 40 hours per week.
-- Employment is subjected to:
+Full-time permanent employees work at least 40 hours per week.
+Employment is subjected to:
 - Medical fitness assessment
 - No conflicting third-party obligations.
 - Valid work permit (for non-Singaporean)
@@ -19,7 +19,7 @@ Owner: HR Department
 # Working Hours Policy
 - Suntec Office: Monday - Friday: 9:00AM - 6:00PM
 - Service Centre: Monday - Friday: 8:30AM - 6:15PM
-- Saturday: According to duty Roster
+Saturday: According to duty Roster
 
 # Probation & Confirmation Policy
 - Employees serve probation as stated in appointment letter
@@ -28,7 +28,7 @@ Owner: HR Department
 - No salary adjustment upon confirmation.
 
 # Dress Code Policy
-- Smart Casual
+Smart Casual
 - Acceptable (Business Shirts, Blouses, Polo Shirts, Jeans, Sneakers)
 - Unacceptable (Tank tops, Singlets, Shorts, Mini-skirts, Flip flops, Crocs)
   
